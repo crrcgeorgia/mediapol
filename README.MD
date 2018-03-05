@@ -2,4 +2,4 @@
 
 Related publications:
 + CRRC-Georgia's [blog]()
-+ Article on [OC-Media]()
++ Article on [OC-Media](http://oc-media.org/analysis-polarisation-in-georgias-media-landscape/)
